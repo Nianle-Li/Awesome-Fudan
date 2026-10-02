@@ -80,6 +80,8 @@
 > Project of Xiaoqing Zheng
 - [garyagasa] BST Dictionary, Chengdu Metro Map, ...（内含相关备考资料、真题、slide、Lab和PJ） [Github](https://github.com/garyagasa/DataStructure_2025Fall)
 
+> Project of Bihuan Chen
+
 - [Nianle-Li] Dungeon: 2025年秋季数据结构课程项目 [Github](https://github.com/Nianle-Li/FDU_PJs/tree/main/02-dungeon-project)
 
 
